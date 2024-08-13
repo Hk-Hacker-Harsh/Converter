@@ -1,5 +1,8 @@
 # Converter
 # Project-1-Converter.py
+Ver:1.0
+Created By: Hk (Harsh Khandal) Hacker
+
 This program is written in Python3 language.
 This program is a CLI and can convert Hexadecimal, Octal, Binary to Decimal and Decimal to Hexadecimal, Binary, and Octal, and even encode and Decode Morse codes.
 
